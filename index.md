@@ -38,7 +38,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 **Pole Cleaner**
 
 <a href="/fa25-portfolio-ryanbrynjo/projects/2025-polevault-pole-cleaner">
-  <img src="/fa25-portfolio-ryanbrynjo/assets/images/polecleaner.png"
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/PoleCleaner.png"
        alt="Pole Cleaner"
        class="project-image">
 </a>
