@@ -8,7 +8,7 @@ image: /assets/images/plane.png
 
 ## Overview
 
-In the summer of 2024, I was lacking any CAD experience. Because of my love of aviation and space, I thought it would be very fun to learn how to use CAD while designing a sleek and build-able RC plane.
+In the summer of 2024, I was lacking any CAD experience. Because of my love of aviation and space, I thought it would be fun and challenging to learn how to use CAD while designing a sleek and build-able RC plane.
 
 To begin, I watched a couple of videos on planes and how to begin designing them. To give myself a crutch, I decided to follow a blue-print of a random stunt-plane. I followed this blueprint to give a rough outline of the plane shape from top and bottom views and side views. I decided my plane would be a maximum of 50 cm long and 35 cm wide.
 
@@ -38,7 +38,7 @@ After I selected this airfoil, I put three cross sections in different regions o
 
 ## CAD Modelling Process
 
-Throughout designing the airplane, I mainly surface modelling with paths as guidelines. For a beginner CADDER like myself, this was a rather tough decision; however, given the intricate surfaces of airplanes, I justified this decision and learned along the way.
+Throughout designing the airplane, I mainly utilized surface modelling with paths as guidelines. For a beginner CADDER like myself, this was a rather tough decision; however, given the intricate aerodynamic surfaces of airplanes, I justified this decision and learned along the way.
 
 Some struggles I came across when modelling this airplane was the fact there were multiple regions where the surfaces did not exactly touch. This was my biggest obstacle in turning the surface model into a body, which I could then put into CFD models such as Autodesk CFD to analyze its performance in uniform flow conditions. Unfortunately, although I tried using lofts to connect these surfaces, I was not successful in connecting all regions as there were various error points.
 
@@ -54,7 +54,7 @@ In this process, I modelled the fuselage as a cylinder and used basic structural
 
 ## Final Blueprints
 
-Here is my final blueprints from my plane and wings that could be used as base for making aircraft in real life.
+Here is my final blueprints from my plane and wings that could be used as base for making aircraft in real life (wing adjusted to real life scale on paper).
 
 **Final Plane Design**
 
