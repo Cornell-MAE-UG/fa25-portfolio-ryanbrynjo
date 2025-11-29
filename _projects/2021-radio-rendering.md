@@ -2,7 +2,7 @@
 layout: project
 title: Quasi 1D Rocket Nozzle Solver
 description: Building a rocket nozzle solver for diverging section
-technologies: [Python, Matplotlib, Rocket Nozzles, Quasi1D Simulation]
+technologies: [Python, Matplotlib, Rocket Nozzles, Quasi1D Simulation, Hand Verification]
 image: /assets/images/nozzlesolver.png
 ---
 
@@ -21,9 +21,12 @@ My main idea was to use the isentropic mach equations given a rocket nozzle enve
 
 ---
 
-![Photo of initial plane shape]({{ "/assets/images/planeinitial.png" | relative_url }}){: .inline-image }
+**Photo of Hand-Calculation Check**  
+-Here, I decided to check my program manually to see if it was accurate. I tested two points in the nozzle and checked if that matched- it did.
 
-![Photo of initial plane shape]({{ "/assets/images/planeinitial.png" | relative_url }}){: .inline-image }
+
+![Photo of hand calculations]({{ "/assets/images/handcalc.png" | relative_url }}){: .inline-image }
+
 
 
 
