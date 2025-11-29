@@ -6,6 +6,8 @@ technologies: [Fusion 360, 3D printing, Fabrication, McMaster Parts, Project Doc
 image: /assets/images/PoleCleaner.png
 ---
 
+**Technologies used:** Fusion 360 · 3D printing · Fabrication · McMaster Parts · Project Documentation
+
 ## Overview
 
 As part of a class project involving product design, my group members and I came up with designing a pole vault cleaner. Through my time at Cornell Track and Field, I have learned that cleaning gunk from tape on pole vault poles by hand is extremely time consuming and tedious; usually involving acetone that soaks into latex gloves, it is both a smelly and toxic process.
@@ -18,17 +20,23 @@ After coming up with the idea, my group members and I made crude prototypes out 
 
 Here are some photos of our initial prototypes:
 
-![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<figure class="project-image">
+  <img src="{{ '/assets/images/scrappyprototypes.png' | relative_url }}" alt="Initial scrappy prototypes">
+  <figcaption>Initial scrappy prototypes</figcaption>
+</figure>
 
 And our final cardboard scrappy prototype:
 
-![Photo of me welding frame]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<figure class="project-image">
+  <img src="{{ '/assets/images/soapdispenser.png' | relative_url }}" alt="Cardboard prototype">
+  <figcaption>Cardboard “soap dispenser” prototype</figcaption>
+</figure>
 
 ---
 
 ## CAD and Fabrication
 
-After narrowing down to the soap dispenser pole cleaning prototype, we made a CAD model and ordered parts from Mcmaster-Carr to get as close to our CAD prototype as possible.
+After narrowing down to the soap dispenser pole cleaning prototype, we made a CAD model and ordered parts from McMaster-Carr to get as close to our CAD prototype as possible.
 
 I 3D printed the joints and soap-dispensing mechanism that one of my teammates designed, and also contributed to the CAD model by making the PVC pipe region along with the scouring pads.
 
@@ -40,11 +48,17 @@ After iterating our design multiple times, we eventually got to our final design
 
 **Our final CAD model:**
 
-![Photo of me welding frame]({{ "/assets/images/PoleCleaner.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<figure class="project-image">
+  <img src="{{ '/assets/images/PoleCleaner.png' | relative_url }}" alt="Final CAD model">
+  <figcaption>Final CAD model</figcaption>
+</figure>
 
 **Our final real-life model:**
 
-![Photo of me welding frame]({{ "/assets/images/finalproto.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<figure class="project-image">
+  <img src="{{ '/assets/images/finalproto.png' | relative_url }}" alt="Final physical prototype">
+  <figcaption>Final physical prototype</figcaption>
+</figure>
 
 ---
 
