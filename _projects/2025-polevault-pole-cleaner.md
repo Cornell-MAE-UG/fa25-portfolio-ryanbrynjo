@@ -8,106 +8,64 @@ image: /assets/images/PoleCleaner.png
 
 ## Overview
 
-As part of a product design class, my team and I developed a **pole-vault pole cleaner** to address a problem I’d seen firsthand on the Cornell Track & Field team.
+As part of a class project involving product design, my group members and I came up with designing a pole vault cleaner. Through my time at Cornell Track and Field, I have learned that cleaning gunk from tape on pole vault poles by hand is extremely time consuming and tedious; usually involving acetone that soaks into latex gloves, it is both a smelly and toxic process.
 
-Cleaning gunked-up tape residue from poles is:
-
-- **Slow and tedious**
-- Typically done with **acetone**, which soaks through latex gloves
-- **Smelly, toxic, and uncomfortable** to work with
-
-Our goal was to create a safer, faster, and more consistent way to clean pole-vault poles.
+After coming up with the idea, my group members and I made crude prototypes out of cardboard and used that to quickly narrow multiple ideas down to one, with the intention of making more sophisticated CAD prototypes based on the single idea and eventually a real-life prototype.
 
 ---
 
-## Early Prototyping
+## Initial Prototypes
 
-We started with a wide brainstorming phase, then quickly moved into **crude cardboard prototypes** to explore multiple concepts in parallel. These low-fidelity models helped us:
+Here are some photos of our initial prototypes:
 
-- Test basic mechanisms
-- Evaluate ergonomics and usability
-- Eliminate ideas that were clearly overcomplicated or impractical
+![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-**Initial scrappy prototypes:**
+And our final cardboard scrappy prototype:
 
-![Initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .inline-image-r style="width: 200px" }
-
-**Final cardboard “soap dispenser” prototype:**
-
-![Soap dispenser prototype]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .inline-image-r style="width: 200px" }
-
-From these iterations, we converged on a design that combined:
-
-- A **soap-dispensing mechanism**
-- A **tube-like housing** for the pole
-- Internal **cleaning media** to remove tape residue
+![Photo of me welding frame]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ---
 
-## CAD & Component Selection
+## CAD and Fabrication
 
-After selecting the soap-dispenser-based concept, we moved into CAD and detailed design:
+After narrowing down to the soap dispenser pole cleaning prototype, we made a CAD model and ordered parts from Mcmaster-Carr to get as close to our CAD prototype as possible.
 
-- Modeled the assembly in **Fusion 360**
-- Selected hardware and off-the-shelf parts from **McMaster-Carr**
-- Designed 3D printed components to interface between standard hardware and PVC tubing
+I 3D printed the joints and soap-dispensing mechanism that one of my teammates designed, and also contributed to the CAD model by making the PVC pipe region along with the scouring pads.
 
-My specific contributions included:
-
-- **3D printing** the joints and soap-dispensing mechanism designed by a teammate  
-- Contributing to the **CAD model** by designing:
-  - The **PVC pipe region**
-  - The **scouring pad holders** and internal cleaning interface
+After iterating our design multiple times, we eventually got to our final design.
 
 ---
 
-## Final Design
+## Final Designs
 
-After several design iterations, we arrived at our final configuration.
+**Our final CAD model:**
 
-**Final CAD model:**
+![Photo of me welding frame]({{ "/assets/images/PoleCleaner.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-![Final CAD model]({{ "/assets/images/PoleCleaner.png" | relative_url }}){: .inline-image-r style="width: 200px" }
+**Our final real-life model:**
 
-**Final physical prototype:**
-
-![Final physical prototype]({{ "/assets/images/finalproto.png" | relative_url }}){: .inline-image-r style="width: 200px" }
-
-The final design integrates:
-
-- A **refillable liquid soap reservoir**
-- A controlled **dispensing mechanism**
-- **Scouring pads** that contact the pole uniformly as it slides through
-- Robust, **3D printed hinges and joints** to withstand repeated use
+![Photo of me welding frame]({{ "/assets/images/finalproto.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ---
 
-## Reflection & Lessons Learned
+## Project Reflection
 
-Throughout the project, we approached the design with an **iterative and team-focused mindset**:
+Here is a brief project reflection:
 
-- We started with **broad brainstorming**, then narrowed down using quick cardboard prototypes.
-- Once we chose the primary concept, we made **targeted refinements** rather than completely redesigning from scratch.
+Throughout prototyping our pole-vault cleaner, our team navigated through the design process with teamwork and an iterative mindset. We first started with brainstorming as a team, and moved through quick cardboard prototypes and then from that selected which prototype we moved forward with.
 
-Key improvements from iteration:
+After selecting our main prototype, we only made brief modifications over the initial prototype design we selected to arrive at our final product. A major success we had was our ability to adjust our new prototypes due to the problems of our old prototypes. For example, we replaced duct-tape hinges with more reinforced 3D printed hinges to address our durability concerns.
 
-- Replaced **duct-tape hinges** with **3D printed hinges** for better durability and repeatability.
-- Redesigned the **liquid dispensing mechanism** when the original version couldn’t provide a consistent flow rate.
-- Experimented with different cleaning materials:
-  - **Bristles**
-  - **Towels**
-  - **Scouring pads** (ultimately the most effective for removing gunk)
-
-A major takeaway was the value of **recursive testing**: each prototype revealed a new failure mode or inefficiency, which directly informed the next iteration.
+We also adjusted our liquid dispensing mechanism to a 3D printed custom one as our original liquid dispensing mechanism did not dispense liquid at our desired rate. Our biggest problem with our cleaner was figuring out which material worked best to remove the gunk off the pole; we tested bristles and towels, but our final design included a scouring pad which worked the best. We found this primarily through recursive testing.
 
 ---
 
-## Documentation & Deliverables
+## Documentation
 
-**Rendering package:**
+Here is a link to our rendering package:
 
-[Google Drive – Rendering Package](https://drive.google.com/drive/folders/1ilbhpXD57D-IPYnPru6Cs0L-S0O1QbQz?usp=sharing)
+https://drive.google.com/drive/folders/1ilbhpXD57D-IPYnPru6Cs0L-S0O1QbQz?usp=sharing
 
-**Final project report (PDF):**
+And here is a link to download our final project document:
 
 [Download final report]({{ "/assets/finalreport.pdf" | relative_url }}) in PDF format.
