@@ -23,8 +23,8 @@ Aspiring mechanical engineering student with a strong foundation in systems and 
   GPA: 3.3/4.0 | Graduation: May, 2025
 
 - **Century High School**  
-  *High School Diploma, Valedictorian* 
-  Graduation: [May, 2023]
+  *High School Diploma, Valedictorian*  
+  Graduation: May, 2023
 
 ---
 
@@ -42,31 +42,33 @@ Aspiring mechanical engineering student with a strong foundation in systems and 
   - Will check if program matches hand calculations
 
 - **Quasi 1D Rocket Nozzle Solver**:  
-  *Made a python script that uses a Rao nozzle envelope and accurately calculates pressure and velocity graphs *  
+  *Made a python script that uses a Rao nozzle envelope and accurately calculates pressure and velocity graphs*
   - Given a stagnation pressure at throat and perfect expansion at nozzle, calculates mach # at x position in nozzle and uses that to calculate pressure and velocity variations
   - Learned how to utilize python's matplotlib module for basic simulations
 
-  **RC Plane**
-  *Made an RC Plane model in Fusion 360 using an XFoil shape and optimized given styrofoam material
-  -Utilized Fusion 360 and XFoil to analyze and determine initial airfoil and aircraft shape for a target altitude of 500’ and a low Mach number (~0.1)
-  -Performed 2D Finite Element Analysis (FEA) by using hand mathematics to determine an optimal profile at cruise altitude while accounting for pressure gradient, densities, and aerodynamic drag that vary with height; selected specific regions on body of aircraft and wings to analyze stress and strain maxima on Styrofoam, eventually optimizing weight by 11% from initial design. 
+
+- **RC Plane**:  
+  *Made an RC Plane model in Fusion 360 using an XFoil determined airfoil and optimized given styrofoam material*
+  - Utilized Fusion 360 and XFoil to analyze and determine initial airfoil and aircraft shape for a target altitude of 500’ and a low Mach number (~0.1)
+  - Performed 2D Finite Element Analysis (FEA) by using hand mathematics to determine an optimal profile at cruise altitude while accounting for pressure gradient, densities, and aerodynamic drag that vary with height; selected specific regions on body of aircraft and wings to analyze stress and strain maxima on Styrofoam, eventually optimizing weight by 11% from initial design. 
 
 ---
 
 #### Work Experience
 - **KLJ Engineering - Aviation Engineering Intern**  
-  [June, 2025] - [August, 2025]  
+  June, 2025 - August, 2025  
   - Developed airport layout plans and capital improvement plans in Civil3D AutoCAD for 9 regional airports in North Dakota while cross-referencing the required FAA regulations and statutes.  
   - Gained field experience at a Hazen airport rehabilitation project; supervised contractors who completed the project 32 days before deadline (~25% reduction in completion time). 
 
 - **Cornell University - Engineering Physics Tutor**
+  August, 2025 - Present   
  - Reinforced and helped solidify topics to student athletes in Engineering Physics 2. Met with students twice a week to go over both homework problems and study preparation for tests.   
  - Learned how to communicate both at the level of the material and sometimes under it to help students digest difficult topics. One student experienced an increase in test scores by ~30% on average.
 
 
 #### Extracurricular Activities
-- Member of [Cornell University Varsity Track and Field]  
-- Member of [TECH4SCHOOLS]  
+- Member of Cornell University Varsity Track and Field 
+- Member of TECH4SCHOOLS
 
 ---
 

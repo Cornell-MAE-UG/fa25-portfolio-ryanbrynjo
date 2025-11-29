@@ -18,15 +18,11 @@ After coming up with the idea, my group members and I made crude prototypes out 
 
 Here are some photos of our initial prototypes:
 
-![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .project-image}
-
-<div style="clear: both;"></div>
+![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .inline-image }
 
 And our final cardboard scrappy prototype:
 
-![Photo of me welding frame]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .project-image}
-
-<div style="clear: both;"></div>
+![Photo of me welding frame]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .inline-image }
 
 ---
 
@@ -36,25 +32,23 @@ After narrowing down to the soap dispenser pole cleaning prototype, we made a CA
 
 I 3D printed the joints and soap-dispensing mechanism that one of my teammates designed, and also contributed to the CAD model by making the PVC pipe region along with the scouring pads.
 
-After iterating our design multiple times, we eventually got to our final design.
+After iterating our design multiple times, we eventually got to our final designs- one as our base design, and one optimized for sustainability.
 
 ---
 
 ## Final Designs
 
-**Our final CAD model:**
+**Our final CAD model(s):**
 
-![Photo of me welding frame]({{ "/assets/images/PoleCleaner.png" | relative_url }}){: .project-image}
+![Description of final CAD model]({{ "/assets/images/project2.png" | relative_url }}){: .inline-image }
 
 **Our final real-life model:**
 
-![Photo of me welding frame]({{ "/assets/images/finalproto.png" | relative_url }}){: .project-image}
+![Real-life adaptation of CAD model]({{ "/assets/images/finalproto.png" | relative_url }}){: .inline-image }
 
 ---
 
 ## Project Reflection
-
-Here is a brief project reflection:
 
 Throughout prototyping our pole-vault cleaner, our team navigated through the design process with teamwork and an iterative mindset. We first started with brainstorming as a team, and moved through quick cardboard prototypes and then from that selected which prototype we moved forward with.
 
