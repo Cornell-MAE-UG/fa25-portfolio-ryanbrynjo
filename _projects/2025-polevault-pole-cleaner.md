@@ -18,7 +18,7 @@ After coming up with the idea, my group members and I made crude prototypes out 
 
 Here are some photos of our initial prototypes:
 
-![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .project-image}
 
 And our final cardboard scrappy prototype:
 
