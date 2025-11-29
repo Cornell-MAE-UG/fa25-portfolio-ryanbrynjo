@@ -20,9 +20,13 @@ Here are some photos of our initial prototypes:
 
 ![Photo of initial scrappy prototypes]({{ "/assets/images/scrappyprototypes.png" | relative_url }}){: .project-image}
 
+<div style="clear: both;"></div>
+
 And our final cardboard scrappy prototype:
 
 ![Photo of me welding frame]({{ "/assets/images/soapdispenser.png" | relative_url }}){: .project-image}
+
+<div style="clear: both;"></div>
 
 ---
 
