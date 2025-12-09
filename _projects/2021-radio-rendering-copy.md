@@ -7,7 +7,7 @@ image: /assets/images/torquewrench1.png
 ---
 
 # Overview
-For my final in Mechanics of Materials at Cornell University, we were tasked with designing and optimizing a torque wrench given a design torque to pass certain constraints. These constraints were relating to fracture mechanics, normal stress, and fatigue, with an extra constraint related to strain gauge bridge output.
+For my final project in Mechanics of Materials at Cornell University, we were tasked with designing and optimizing a torque wrench given a design torque to pass certain constraints. These constraints were relating to fracture mechanics, normal stress, and fatigue, with an extra constraint related to strain gauge bridge output.
 
 The project outline started with hand calculations using standard beam theory in Python, and later moved to ANSYS to confirm beam theory calculations and get more exact estimate; using the combination of values from ANSYS and hand calculations, I then optimized the design to minimize stress concentrations and retested values in ANSYS while meeting design conditions.
 
@@ -46,6 +46,9 @@ This is the initial design I considered in my calculations. We see this is a sim
 
 Code for these calculations can be found at the bottom of the page.
 
+Here is the CAD Model I originally created:     
+
+![Photo of outline]({{ "/assets/images/ye.png" | relative_url }}){: .inline-image }     
 
 ---
 

@@ -43,4 +43,12 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
        class="project-image">
 </a>
 
+**Torque Wrench ANSYS FEA**
+
+<a href="/fa25-portfolio-ryanbrynjo/projects/2021-radio-rendering-copy">
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/torquewrench1.png"
+       alt="Torque Wrench"
+       class="project-image">
+</a>
+
 ---
