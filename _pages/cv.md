@@ -39,7 +39,7 @@ Aspiring mechanical engineering student with a strong foundation in systems and 
 - **Ry-Foil**:  
   **(November 2025 - Ongoing)**   
   *Making a vortex-panel based airfoil solver of common NACA airfoils*  
-  - Learning how to integrate and code stre**amwise point vortices along a panel in uniform flow
+  - Learning how to integrate and code streamwise point vortices along a panel in uniform flow
   - Will check if program matches hand calculations
 
 - **Quasi 1D Rocket Nozzle Solver**:  
@@ -65,7 +65,20 @@ Aspiring mechanical engineering student with a strong foundation in systems and 
   **(May 2025 - August 2025)**    
   *Created a Go-Kart from scrap metal and using CAD modelled parts along with a University of North Dakota engineer Kyan Barth*  
   - Designed and fabricated a go-kart frame using stick welding and scrap metal. Integrated a 6.5 HP Predator engine with a SolidWorks-modeled transmission, suspension system, and steering system.  
-  - Validated design performance through ~20 sessions, reaching a max speed of 21 mph and exhibiting negligible frame fatigue or drivetrain wear (even in rough off-roading terrain).  
+  - Validated design performance through ~20 sessions, reaching a max speed of 21 mph and exhibiting negligible frame fatigue or drivetrain wear (even in rough off-roading terrain). 
+  
+- **Fluid Mechanical Dissection**:   
+  **(November 2025 - December 2025)**    
+  *Conducted a full fluid mechanical dissection and analysis of an inkjet printer as part of Cornell University Fluid Mechanics coursework*  
+  - Performed a physical teardown of a commercial inkjet printer to identify and isolate the dominant fluid mechanical subsystem (ink cartridge and dispensing mechanism)   
+  - Developed detailed process diagrams of the inkjet ejection mechanism after researching capillary action, cohesion, adhesion, and surface tension at the micrometer scale.     
+  - Applied fluid mechanics theory to relate observed behavior to static vs. dynamic systems and the Navier–Stokes equations.   
+
+- **Torque Wrench ANSYS**:     
+  **(November 2025 - December 2025)**      
+  *Designed and optimized a torque wrench under fracture, fatigue, and strain-gauge output constraints for a Cornell Mechanics of Materials final project*    
+  - Performed hand calculations in Python using beam theory, fatigue, and fracture mechanics, then validated and refined the design using ANSYS to minimize stress concentrations while meeting a required torque of 600 in-lbf.     
+  - Extracted strain, deflection, and maximum principal stress from FEA to size a full Wheatstone bridge using Vishay foil strain gauges, achieving a predicted sensitivity of 1.009 mV/V while satisfying yield, fatigue, and crack-growth safety factors.    
 
 ---
 
