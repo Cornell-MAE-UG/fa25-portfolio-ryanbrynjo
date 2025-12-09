@@ -40,9 +40,11 @@ Fracture Toughness = 14.1  ksi*sqrt(inch)
 
 **Beam Theory**   
 
-![Photo of outline]({{ "/assets/images/rough.png" | relative_url }}){: .inline-image }   
+![Photo of initialdesign]({{ "/assets/images/rough.png" | relative_url }}){: .inline-image }    
 
-This is the initial design I considered in my calculations. We see this is a simple design only crudely modelling a torque wrench. It is noted length L is not the entire length of the torque wrench, but the distance to where the point force is applied from the center of the drive.
+![Photo of drive]({{ "/assets/images/drive.png" | relative_url }}){: .inline-image }   
+  
+This is the initial design I considered in my calculations. We see this is a simple design only crudely modelling a torque wrench. It is noted length L is not the entire length of the torque wrench, but the distance to where the point force is applied from the center of the drive. c is the distance from the drive to the strain gauges.
 
 Code for these calculations can be found at the bottom of the page.
 
