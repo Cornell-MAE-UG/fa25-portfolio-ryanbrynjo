@@ -51,4 +51,11 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
        class="project-image">
 </a>
 
+**Torque Wrench ANSYS FEA**   
+
+<a href="/fa25-portfolio-ryanbrynjo/projects/fluidmechanicvideo">
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/diss2.png"
+       alt="Torque Wrench"
+       class="project-image">  
+</a>
 ---
