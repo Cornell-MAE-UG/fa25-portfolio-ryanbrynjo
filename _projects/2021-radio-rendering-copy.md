@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ANSYS Finite Element Analysis for Torque Wrench
-description: Building a rocket nozzle solver for diverging section
+description: Using ANSYS and hand calculations to optimize a torque wrench
 technologies: [Python, ANSYS, Finite Element Analysis, Optimization]
 image: /assets/images/torquewrench1.png
 ---

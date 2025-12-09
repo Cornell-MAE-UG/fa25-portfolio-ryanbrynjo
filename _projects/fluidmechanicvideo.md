@@ -2,7 +2,7 @@
 layout: project
 title: Printer Fluid Mechanical Dissection
 description: Learning about inkjet dispensing process
-technologies: [Fluid Mechanics, Navier Stokes, Laplace Pressure, Washburn Equation]
+technologies: []
 image: /assets/images/diss2.png
 ---
 
