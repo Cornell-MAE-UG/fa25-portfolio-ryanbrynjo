@@ -56,7 +56,7 @@ We assumed a linear system:
 
 After this, it is just plugging in numbers. This is our final state-space representation for our system:
 
-![Photo of state space model final]({{ "/assets/images/statespace.png" | relative_url }}){: .inline-image }    
+![Photo of state space model final]({{ "/assets/images/Statespace.png" | relative_url }}){: .inline-image }    
 
 ---
 
@@ -70,7 +70,7 @@ The key consideration of CU-D2 is to not let angle  between the horizontal and t
  
 **Control Diagram**    
 
-![Photo of control diagram]({{ "/assets/images/statespace.png" | relative_url }}){: .inline-image }    
+![Photo of control diagram]({{ "/assets/images/ctrl.png" | relative_url }}){: .inline-image }    
 
 
 ---
@@ -93,7 +93,7 @@ The robot balance was achieved by tweaking the gain values. A video description 
 
 
 <div class="video-container">
-  <iframe src="https://youtu.be/kZ9yXSptH3A"
+  <iframe src="https://youtube.com/embed/kZ9yXSptH3A"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen>
