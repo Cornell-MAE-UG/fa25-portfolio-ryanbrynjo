@@ -3,7 +3,7 @@ layout: project
 title: CU-D2 Self Balancing Robot
 description: Using System Dynamics, Mujoco, and Dynamics to make a self balancing robot
 technologies: [Python, Dynamic Modelling, State-Space Modelling, MuJoco]
-image: /assets/images/system.png
+image: /assets/images/robo.png
 
 ---
 
