@@ -70,7 +70,7 @@ The key consideration of CU-D2 is to not let angle  between the horizontal and t
  
 **Control Diagram**    
 
-![Photo of control diagram]({{ "/assets/images/ctrl.png" | relative_url }}){: .inline-image }    
+![Photo of control diagram]({{ "/assets/images/diag.png" | relative_url }}){: .inline-image }    
 
 
 ---
