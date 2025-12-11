@@ -55,7 +55,17 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 <a href="/fa25-portfolio-ryanbrynjo/projects/fluidmechanicvideo">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/diss2.png"
-       alt="Torque Wrench"
+       alt="Fluid Mechanics"
        class="project-image">  
 </a>
+
+**CU-D2 Self Balancing Robot**   
+
+<a href="/fa25-portfolio-ryanbrynjo/projects/systemdynamics">
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/system.png"
+       alt="CU-D2 Robot"
+       class="project-image">  
+</a>
+
+
 ---
