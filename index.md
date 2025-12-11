@@ -21,7 +21,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 **Quasi 1D Rocket Nozzle Simulation**
 
-<a href="/fa25-portfolio-ryanbrynjo/projects/2021-radio-rendering">
+<a href="/fa25-portfolio-ryanbrynjo/projects/rocketnozzle">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/nozzlesolver.png"
        alt="Rocket Nozzle Simulation"
        class="project-image">
@@ -29,7 +29,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 **RC Plane Model**
 
-<a href="/fa25-portfolio-ryanbrynjo/projects/2023-spaceship-design/">
+<a href="/fa25-portfolio-ryanbrynjo/projects/rcplane/">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/plane.png"
        alt="RC Plane Model"
        class="project-image">
@@ -37,7 +37,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 **Pole Cleaner**
 
-<a href="/fa25-portfolio-ryanbrynjo/projects/2025-polevault-pole-cleaner">
+<a href="/fa25-portfolio-ryanbrynjo/projects/polevaultcleaner">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/PoleCleaner.png"
        alt="Pole Cleaner"
        class="project-image">
@@ -45,7 +45,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 **Torque Wrench ANSYS FEA**
 
-<a href="/fa25-portfolio-ryanbrynjo/projects/2021-radio-rendering-copy">
+<a href="/fa25-portfolio-ryanbrynjo/projects/ansys">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/torquewrench1.png"
        alt="Torque Wrench"
        class="project-image">
