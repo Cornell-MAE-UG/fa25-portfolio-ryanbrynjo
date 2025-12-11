@@ -100,7 +100,7 @@ The robot balance was achieved by tweaking the gain values. A video description 
   </iframe>
 </div>
 
-The scripts can be found on https://github.com/MagnetMan103/biped_control
+The scripts can be found on [Github Script](https://github.com/MagnetMan103/biped_control)
 And the README file describes how to run the simulations.
 
 ---
