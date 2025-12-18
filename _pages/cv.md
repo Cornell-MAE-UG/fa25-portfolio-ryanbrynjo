@@ -80,6 +80,14 @@ Aspiring mechanical engineering student with a strong foundation in systems and 
   - Performed hand calculations in Python using beam theory, fatigue, and fracture mechanics, then validated and refined the design using ANSYS to minimize stress concentrations while meeting a required torque of 600 in-lbf.     
   - Extracted strain, deflection, and maximum principal stress from FEA to size a full Wheatstone bridge using Vishay foil strain gauges, achieving a predicted sensitivity of 1.009 mV/V while satisfying yield, fatigue, and crack-growth safety factors.    
 
+- **CU-D2 Self-Balancing Robot**:     
+ **(November 2025- December 2025)**     
+  *Modeled, linearized, and controlled an inverted-pendulum robot for a Cornell System Dynamics final project*    
+  - Derived the nonlinear dynamics of a multi-link inverted pendulum, linearized the system, and built a full state-space model to analyze stability and design PD control laws that keep the robot within its critical balance angle.    
+  - Helped develop a full MuJoCo simulation with custom mass distributions and motor-driven wheels, tuning controller gains to achieve stable balancing while producing a technical report and reproducible Python simulation package in GitHub.     
+
+
+
 ---
 
 #### Work Experience

@@ -11,7 +11,7 @@ title: Ryan Brynjolfson
  
 My name is Ryan Brynjolfson, and I am a Junior Mechanical Engineering student at Cornell University getting a minor in Aerospace Engineering. I have an interest in fluid mechanics, namely computational fluid mechanics, and its interaction with rockets and aerodynamic bodies. I also have an interest in robotics and mechatronics, and I am currently learning ways to incorporate systems engineering into the real, namely through my recently completed project, CU-D2, a self-balancing robot modelled with a PD controller.
 
-I aspire to be apart of the top of the aerospace industry, as a life-time goal and purpose for me is to contribute in the exploration of space and eventual colonization of other planets. I believe machine learning and other neural network strategies are essential for this task, which is why I am about to take a Machine Learning class this upcoming semester to begin learning how to incorporate artificial intelligence into future projects beyond LLM wrappers.
+I aspire to be a part of the top of the aerospace industry, as a life-time goal and purpose for me is to contribute in the exploration of space and eventual colonization of other planets. I believe machine learning and other neural network strategies are essential for this task, which is why I am about to take a Machine Learning class this upcoming semester to begin learning how to incorporate artificial intelligence into future projects beyond LLM wrappers.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
 

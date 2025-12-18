@@ -56,7 +56,7 @@ Here is the CAD Model I originally created:
 
 # Photos of Improved CAD Model  
 
--I changed my wrench to have smoother contours to mitigate stress concentrations. I also made my wrench have a handle (by making it longer) that has a wider cross section to ensure it does not interfere with maximum stress locations; I assumed the point force was applied at the end of the handle in the same location as my hand calculations.    
+I changed my wrench to have smoother contours to mitigate stress concentrations. I also made my wrench have a handle (by making it longer) that has a wider cross section to ensure it does not interfere with maximum stress locations; I assumed the point force was applied at the end of the handle in the same location as my hand calculations.    
 
 **Pictures of Updated Model**      
 
