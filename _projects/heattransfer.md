@@ -18,8 +18,7 @@ The photovoltaic panel problem was particularly valuable because it linked heat 
 
 The full scanned homework assignment is provided below.
 
-[Download Problem Set 4 PDF](/assets/Adobe_Scan_Mar_3__2026.pdf)
-
+[Download scanned PDF]({{ "/assets/Adobe_Scan_Mar_3__2026.pdf" | relative_url }})
 ---
 
 ## Key Concepts From This Assignment
