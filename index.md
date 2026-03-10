@@ -64,13 +64,22 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 </a>    
 
 
-**Pole Cleaner**
+**Pole Cleaner**  
 
 <a href="/fa25-portfolio-ryanbrynjo/projects/polevaultcleaner">
   <img src="/fa25-portfolio-ryanbrynjo/assets/images/PoleCleaner.png"
        alt="Pole Cleaner"
        class="project-image">
 </a>  
+
+**Heat Transfer** 
+
+<a href="/fa25-portfolio-ryanbrynjo/projects/heattransfer"> 
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/heattransfer.png"  
+       alt="Heat Transfer"  
+       class="project-image"> 
+</a>    
+
 
 
 ---
