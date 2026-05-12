@@ -26,13 +26,13 @@ On the Cornell Robot Competition sponsored by ASML, our team took 5th/62 teams w
 
 **Prototype 3 (Final design):** We attached the arms to the *rear* of the chassis (a deviation from our original Fusion 360 CAD) to extend the capturing perimeter by 3 inches and dramatically increase our scoring ceiling. The arms were built from cardboard, reinforced with M3 standoffs, hot glue, and extra layers. The cardboard proved far more durable than expected, so we never printed the CAD parts.
 
-![Cardboard Carnivore final robot]({{ "/assets/images/cardboardcarnivore" | relative_url }}){: .inline-image }
+![Cardboard Carnivore final robot]({{ "/assets/images/cardboardcarnivore.png" | relative_url }}){: .inline-image }
 
 ## CAD and Fabrication
 
 Our original mechanical design was drafted in Fusion 360 (isometric and top views shown in the report). Due to time lost troubleshooting the color sensor, lab-space constraints, and busy schedules, we made the pragmatic decision to use cardboard, hot glue, and lab hardware instead of 3D printing. This saved significant time and money with virtually no performance penalty for the competition environment.
 
-**Electrical design** was equally minimalist: each motor wired to an H-bridge (per Lab 3) and the TCS3200 color sensor wired per Lab 4. All wires from the breadboard were taped together to prevent accidental disconnection during the match.
+**Electrical design** was equally minimalist: each motor wired to an H-bridge (per Lab 3), the TCS3200 color sensor, and QTI sensor. All wires from the breadboard were taped together to prevent accidental disconnection during the match.
 
 ## Software and Strategy
 
