@@ -89,6 +89,16 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 </a>  
 
 
+**Robot Competition**  
+
+<a href="/fa25-portfolio-ryanbrynjo/projects/robotcomp">
+  <img src="/fa25-portfolio-ryanbrynjo/assets/images/cardboardcarnivore.png"
+       alt="Robot Comp"
+       class="project-image">
+</a>  
+
+
+
 
 
 
